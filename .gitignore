@@ -1,0 +1,2 @@
+New-Item .env
+New-Item .gitignore
